@@ -1,1 +1,0 @@
-## A fitness tracking project
